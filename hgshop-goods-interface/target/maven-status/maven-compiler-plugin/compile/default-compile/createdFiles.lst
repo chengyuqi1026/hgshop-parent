@@ -1,0 +1,7 @@
+com\cyq\hgshop\service\UserService.class
+com\cyq\hgshop\pojo\SpecOption.class
+com\cyq\hgshop\pojo\Brand.class
+com\cyq\hgshop\pojo\Category.class
+com\cyq\hgshop\service\GoodsService.class
+com\cyq\hgshop\pojo\Spec.class
+com\cyq\hgshop\service\SpecService.class

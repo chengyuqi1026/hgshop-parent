@@ -1,0 +1,5 @@
+com\cyq\hgshop\service\impl\UserServiceImpl.class
+com\cyq\hgshop\config\AdminProperties.class
+com\cyq\hgshop\service\impl\SpecServiceImpl.class
+com\cyq\hgshop\dao\SpecDao.class
+com\cyq\hgshop\service\impl\GoodsServiceImpl.class
